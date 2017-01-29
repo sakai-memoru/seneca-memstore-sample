@@ -5,7 +5,9 @@ Overview
 ------------------------
 This sample is using seneca-mem-store, that is Key-Value store.
 
-https://github.com/senecajs/seneca-mem-store
+[https://github.com/senecajs/seneca-mem-store]
+(https://github.com/senecajs/seneca-mem-store)
+
 Description
 ------------------------
 
@@ -17,8 +19,6 @@ $ npm install
 
 Usage
 ------------------------
-
-
 
 
 // --- end of file --- //
