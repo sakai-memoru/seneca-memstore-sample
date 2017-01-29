@@ -13,3 +13,9 @@ console.log(ret);
 ret = _.findKey(test,(val) => val === '51');
 console.log(ret);
 
+ret = _.some([test],{'key':'sakai.memoru'});
+console.log(ret);
+
+//ret = _.where(test,{'key':'sakai.memoru'});
+//console.log(ret);
+
